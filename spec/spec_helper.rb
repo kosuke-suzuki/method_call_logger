@@ -1,5 +1,6 @@
 require "bundler/setup"
 require "method_call_logger"
+require 'logger'
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
